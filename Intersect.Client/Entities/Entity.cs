@@ -164,6 +164,7 @@ namespace Intersect.Client.Entities
         public const long TimeBeforeIdling = 0;
 
         public const long IdleFrameDuration = 200;
+        public const long IdleFrameDuration = 0;
         #endregion
 
         public int Type;
